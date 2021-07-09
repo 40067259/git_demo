@@ -1,1 +1,2 @@
-resolved one problem about git
+resolved one problem about git 
+This is the first update 
