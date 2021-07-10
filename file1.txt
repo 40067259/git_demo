@@ -1,2 +1,3 @@
 Good lesson to learn git,updated, diff updated
 add from master
+add from bugfix
