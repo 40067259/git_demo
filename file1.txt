@@ -1,1 +1,2 @@
-Good lesson to learn git,updated, diff updated 
+Good lesson to learn git,updated, diff updated
+add one line from bugfix
